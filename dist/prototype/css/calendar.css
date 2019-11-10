@@ -1,0 +1,12 @@
+/* normal days */
+QCalendarWidget QAbstractItemView:enabled
+{
+font-size:12px;
+selection-background-color: rgb(64, 64, 64); 
+selection-color: rgb(100, 200, 125); 
+}
+
+QCalendarWidget QAbstractItemView:disabled 
+{ 
+}
+

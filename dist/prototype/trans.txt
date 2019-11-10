@@ -1,0 +1,1551 @@
+﻿Prev Week|ru:Прошлая неделя
+Restore|ru:Восстановить
+Larry|en:Larry
+Larry|ru:Ларри
+Larry|de:Larry
+Gerry|en:Gerry
+Gerry|ru:Gerry
+Gerry|de:Gerry
+Alp|en:Alp
+Alp|ru:Alp
+Alp|de:Calciumphosphid
+Spaghet|en:Spaghet
+Eat it|en:Eat it
+Eat with fork|en:Eat with fork
+Spaghet|ru:Spaghet
+Eat it|ru:Подавись им!
+Eat with fork|ru:Ешь с вилкой
+Spaghet|de:Spaghet
+Eat it|de:Ja, die Ironie hat man schon verstanden.
+Eat with fork|de:Mit Gabel essen
+Restore All|ru:Восстановить все
+Dummy 1|ru:пустышка
+Search|ru:Искать
+Dummy 3|ru:пустышка
+Language 4|ru:Язык
+Language 5|ru:Язык
+Language 6|ru:Язык
+Russian|ru:Русский язык
+Dummy 0|ru:Заглушка
+Today|ru:Сегодня
+Month / Year|ru:Месяц/Год
+Prev Day|ru:Предыдущий день
+Next Week|ru:Следующая неделя
+Dummy 2|ru:пустышка
+English|ru:Английский язык
+Next Day|ru:Следующий день
+Day|ru:День
+German|ru:Германия
+Restore|ru:Восстановить
+Restore|ru:Восстановить
+Restore|en:Restore
+Spaghetti|en:Spaghetti
+Spaghetti|ru:Spaghetti
+Spaghetti|de:Spaghetti
+Restore All|en:Restore All
+Dummy 1|en:Dummy 1
+Search|en:Search
+Dummy 3|en:Dummy 3
+Language 4|en:Language 4
+Language 5|en:Language 5
+Language 6|en:Language 6
+Russian|en:Russian
+Dummy 0|en:Dummy 0
+Today|en:Today
+Month / Year|en:Month / Year
+Prev Day|en:Prev Day
+Next Week|en:Next Week
+Dummy 2|en:Dummy 2
+English|en:English
+Next Day|en:Next Day
+Day|en:Day
+German|en:German
+Prev Week|en:Prev Week
+Restore|de:Wiederherstellen
+Restore All|de:Zurücksetzen
+Dummy 1|de:Platzhalter
+Search|de:Suchen
+Dummy 3|de:Platzhalter
+Language 4|de:Sprache 4
+Language 5|de:Sprache 5
+Language 6|de:Sprache 6
+Russian|de:Russisch
+Dummy 0|de:Platzhalter
+Today|de:Heute
+Month / Year|de:Monat/Jahr
+Prev Day|de:Einen Tag zurück
+Next Week|de:Nächste Woche
+Dummy 2|de:Platzhalter
+English|de:English
+Next Day|de:Nächster Tag
+Day|de:Tag
+German|de:German
+Prev Week|de:Eine Woche zurück
+Crab Cake Party|en:Crab Cake Party
+Crab Cake Party|ru:Crab Cake Party
+Crab Cake Party|de:Krabben-Kuchen-Party
+Sleep|en:Sleep
+In the bed|en:In the bed
+For lots of time|en:For lots of time
+Sleep|ru:Спать
+In the bed|ru:В постели
+For lots of time|ru:На много времени
+Sleep|de:Schlaf
+In the bed|de:In dem Bett
+For lots of time|de:Für viel Zeit
+Balp|en:Balp
+Balp|ru:BALP
+Balp|de:Balp
+Calp|en:Calp
+Calp|ru:Кальп
+Calp|de:Calp
+Dalp|en:Dalp
+Dalp|ru:Dalp
+Dalp|de:Dalp
+Ealp|en:Ealp
+Ealp|ru:Ealp
+Ealp|de:Ealp
+Restore Calp|en:Restore Calp
+Restore Calp|ru:Восстановить
+Restore Calp|de:Wiederherstellen
+Restore Balp|en:Restore Balp
+Restore Balp|ru:Восстановить
+Restore Balp|de:Wiederherstellen
+Restore Alp|en:Restore Alp
+Restore Alp|ru:Восстановить
+Restore Alp|de:Wiederherstellen
+Restore Dalp|en:Restore Dalp
+Restore Dalp|ru:Восстановить
+Restore Dalp|de:Wiederherstellen
+Restore Ealp|en:Restore Ealp
+Restore Ealp|ru:Восстановить
+Restore Ealp|de:Wiederherstellen
+Restore Gerry|en:Restore Gerry
+Restore Gerry|ru:Восстановить Джерри
+Restore Gerry|de:Stellen Sie Gerry wieder her
+Restore Larry|en:Restore Larry
+Restore Larry|ru:Восстановить Ларри
+Restore Larry|de:Stellen Sie Larry wieder her
+Prev Week|ru:Прошлая неделя
+Experiment|en:Experiment
+In the lab|en:In the lab
+throw the lab|en:throw the lab
+Experiment|ru:Эксперимент
+In the lab|ru:В лаборатории
+throw the lab|ru:бросить лабораторию
+Experiment|de:Versuch
+In the lab|de:in the lab
+throw the lab|de:wirf das Labor
+Calendar|en:Calendar
+Calendar|ru:Календарь
+Calendar|de:Kalender
+Falp|en:Falp
+Falp|ru:FALP
+Falp|de:Falp
+Galp|en:Galp
+Galp|ru:Галл
+Galp|de:Galp
+PushButton|en:PushButton
+PushButton|ru:Кнопка
+PushButton|de:Drucktaste
+Restore Galp|en:Restore Galp
+Restore Galp|ru:Восстановить
+Restore Galp|de:Wiederherstellen
+Restore Falp|en:Restore Falp
+Restore Falp|ru:Восстановить
+Restore Falp|de:Wiederherstellen
+Restore|ja:復元する（？）
+Larry|ja:ラリー
+Gerry|ja:ジェリー
+Alp|ja:ALP
+Balp|ja:げっぷ
+Calp|ja:子牛
+Dalp|ja:ダルプ
+Ealp|ja:エアルプ
+Falp|ja:ファルプ
+Galp|ja:げっぷ
+Search|ja:検索
+Eat it|ja:いいから食べなさい
+Eat with fork|ja:フォークで食べる
+Sleep|ja:スリープ
+In the bed|ja:ベッドの中で
+For lots of time|ja:長い間
+Experiment|ja:実験
+In the lab|ja:研究室だ
+throw the lab|ja:実験室を投げる
+Restore All|ja:すべて元のサイズに戻す
+Dummy 1|ja:dummy
+Language 4|ja:Language
+Language 5|ja:Language
+Language 6|ja:Language
+Russian|ja:ロシア語
+Dummy 0|ja:ダミー
+Today|ja:今日
+English|ja:English
+German|ja:German
+Calendar|ja:予定表
+Next Week|ja:次の週
+Day|ja:日
+Month / Year|ja:/月
+Next Day|ja:翌日
+Prev Day|ja:前日
+Dummy 2|ja:dummy
+Prev Week|ja:前の週
+Restore|fr:Restaurer
+Restore|it:Ripristina
+Larry|fr:Larry
+Larry|it:Larry
+Gerry|fr:Gerry
+Gerry|it:Gerry
+Alp|fr:ALP
+Alp|it:ALP
+Balp|fr:Balp
+Balp|it:Balp
+Calp|fr:CaLP
+Calp|it:Calp
+Dalp|fr:Dalp
+Dalp|it:Dalp
+Ealp|fr:Ealp
+Ealp|it:EALP
+Falp|fr:Falp
+Falp|it:Falp
+Galp|fr:Galp
+Galp|it:Galp
+Search|fr:Rechercher
+Eat it|fr:Eat it
+Eat with fork|fr:Manger à la fourchette
+Search|it:Cerca
+Eat it|it:Mangia...
+Eat with fork|it:Mangia con la forchetta
+Sleep|fr:Veille
+In the bed|fr:dans le lit,
+For lots of time|fr:Pour beaucoup de temps
+Sleep|it:Il sonno
+In the bed|it:Il letto
+For lots of time|it:Per un sacco di tempo
+Experiment|fr:Expérimentation
+In the lab|fr:Dans le laboratoire
+throw the lab|fr:jeter le labo
+Experiment|it:Esperimento
+In the lab|it:... nei laboratori...
+throw the lab|it:gettare il laboratorio
+Restore All|fr:Tout restaurer
+Restore All|it:Ripristina tutto
+Dummy 1|fr:Dummy
+Dummy 1|it:Dummy
+Language 4|fr:LANGUE 4
+Language 4|it:Il linguaggio del gatto 4
+Language 5|fr:Esprit et Langage (6)
+Language 5|it:USE microcalcolatore (4)
+Language 6|fr:Langage (1)
+Language 6|it:Lingua
+Russian|fr:Russe
+Russian|it:Russo
+Dummy 0|fr:Dummy
+Dummy 0|it:Dummy
+Today|fr:Aujourd'hui
+Today|it:Oggi
+English|fr:Anglais
+English|it:English
+German|fr:Allemand
+German|it:German
+Calendar|fr:Calendrier
+Calendar|it:Calendario
+Next Week|fr:Prochaine semaine
+Next Week|it:Prossima Settimana
+Day|fr:Jour
+Day|it:Giorno
+Month / Year|fr:Mois/Année
+Month / Year|it:Mese/Anno
+Next Day|fr:Le prochain jour
+Next Day|it:Giorno seguente
+Prev Day|fr:Jour précédent
+Prev Day|it:Giorno precedente
+Dummy 2|fr:Dummy
+Dummy 2|it:Dummy
+Prev Week|fr:Semaine précédente
+Prev Week|it:Settimana precedente
+Add Event|en:Add Event
+Add Event|ru:Добавить событие
+Add Event|de:Ereignis hinzufügen
+Add Event|ja:イベントを追加
+Add Event|fr:Ajouter l'activité
+Add Event|it:Aggiungi evento
+Italian|en:Italian
+Italian|ru:Итальянский
+Italian|de:Italienisch
+Italian|ja:Italian
+Italian|fr:Italien
+Italian|it:Italiano
+Japanese|en:Japanese
+Japanese|ru:Японский
+Japanese|de:Japanisch
+Japanese|ja:Japanese
+Japanese|fr:Japonais
+Japanese|it:Giapponese
+French|en:French
+French|ru:Французский
+French|de:French
+French|ja:French
+French|fr:Français
+French|it:French
+Current Date|en:Current Date
+Current Date|ru:Текущая дата
+Current Date|de:Heutiger Tag
+Current Date|ja:現在の日付
+Current Date|fr:Date actuelle
+Current Date|it:Data attuale
+Prev Month|en:Prev Month
+Prev Month|ru:Предыдущий месяц
+Prev Month|de:Letzter Monat
+Prev Month|ja:前月
+Prev Month|fr:Mois précédent
+Prev Month|it:Mese Precedente
+Next Month|en:Next Month
+Next Month|ru:В следующем месяце
+Next Month|de:Nächster Monat
+Next Month|ja:来月
+Next Month|fr:Le mois prochain
+Next Month|it:Elimina sezione
+January|en:January
+January|ru:Январь
+January|de:Januar
+January|ja:1月
+January|fr:Janvier
+January|it:Gennaio
+February|en:February
+February|ru:Февраль
+February|de:Februar
+February|ja:2月
+February|fr:février
+February|it:Febbraio
+March|en:March
+March|ru:Март
+March|de:März
+March|ja:3月
+March|fr:Mars
+March|it:Marzo
+April|en:April
+April|ru:Апрель
+April|de:April
+April|ja:4月
+April|fr:Avril
+April|it:Aprile
+May|en:May
+May|ru:Май
+May|de:Mai
+May|ja:5月
+May|fr:Mai
+May|it:Maggio
+June|en:June
+June|ru:Июнь
+June|de:Juni
+June|ja:6月
+June|fr:Juin
+June|it:Giugno
+July|en:July
+July|ru:Июль
+July|de:Juli
+July|ja:7月
+July|fr:Juillet
+July|it:Luglio
+August|en:August
+August|ru:Август
+August|de:August
+August|ja:8月
+August|fr:Aout
+August|it:Agosto
+September|en:September
+September|ru:Сентябрь
+September|de:September
+September|ja:9月
+September|fr:Septembre
+September|it:Ricordati di me
+October|en:October
+October|ru:Октябрь
+October|de:Oktober
+October|ja:10月
+October|fr:Octobre
+October|it:Ottobre
+November|en:November
+November|ru:Ноябрь
+November|de:November
+November|ja:11月
+November|fr:Novembre
+November|it:Novembre
+December|en:December
+December|ru:Декабря
+December|de:Dezember
+December|ja:12月
+December|fr:Décembre
+December|it:Dicembre
+復元する（？） ダルプ|en:復元する（？） ダルプ
+復元する（？） ダルプ|ru:？ 元 す る （？） ダ ル プ
+復元する（？） ダルプ|de:元 す る （？） ダ ル プ
+復元する（？） ダルプ|ja:復元する（？）ダルプ
+復元する（？） ダルプ|fr:す ダ ル プ
+復元する（？） ダルプ|it:復 元 す る (?) ダ ル プ
+復元する（？） エアルプ|en:復元する（？） エアルプ
+復元する（？） エアルプ|ru:？ 元 す る （？） エ ア ル プ
+復元する（？） エアルプ|de:元 す る （？） エ ア ル プ
+復元する（？） エアルプ|ja:復元する（？）エールプ
+復元する（？） エアルプ|fr:す ル プ
+復元する（？） エアルプ|it:復 元 す る (?) エ ア ル プ
+復元する（？） ファルプ|en:復元する（？） ファルプ
+復元する（？） ファルプ|ru:？ 元 す る （？） フ ァ ル プ
+復元する（？） ファルプ|de:元 す る （？） フ ァ ル プ
+復元する（？） ファルプ|ja:復元する（？）ファルプ
+復元する（？） ファルプ|fr:す ル プ
+復元する（？） ファルプ|it:復 元 す る (?) フ ァ ル プ
+復元する（？） げっぷ|en:復元する（？） げっぷ
+復元する（？） げっぷ|ru:？ 元 す る （？） げ っ ぷ
+復元する（？） げっぷ|de:元 す る （？） げ っ ぷ
+復元する（？） げっぷ|ja:復元する（？）げっぷ
+復元する（？） げっぷ|fr:す げ っ ぷ
+復元する（？） げっぷ|it:復 元 す る (?) げ っ ぷ
+Restore Dalp|ja:復元する（？）
+Restore Dalp|fr:RESTAURER
+Restore Dalp|it:Ripristinare
+Restore Ealp|ja:復元する（？）
+Restore Ealp|fr:RESTAURER
+Restore Ealp|it:Ripristinare
+Restore Balp|ja:復元する（？）
+Restore Balp|fr:RESTAURER
+Restore Balp|it:Ripristinare
+Restore Falp|ja:復元する（？）
+Restore Falp|fr:RESTAURER
+Restore Falp|it:Ripristinare
+Restore Galp|ja:復元する（？）
+Restore Galp|fr:RESTAURER
+Restore Galp|it:Ripristinare
+Wiederherstellen Calciumphosphid|en:Wiederherstellen Calciumphosphid
+Wiederherstellen Calciumphosphid|ru:Видерхерстеллен Кальциумфосфид
+Wiederherstellen Calciumphosphid|de:Wiederherstellen Calciumphosphid
+Wiederherstellen Calciumphosphid|ja:Wiederherstellenカルシウムカルシウム
+Wiederherstellen Calciumphosphid|fr:Wiederherstellen Phosphure De Calcium
+Wiederherstellen Calciumphosphid|it:Wiederherstellen Calciumphosphid
+Wiederherstellen Calp|en:Wiederherstellen Calp
+Wiederherstellen Calp|ru:Wiederherstellen Calp
+Wiederherstellen Calp|de:Wiederherstellen Calp
+Wiederherstellen Calp|ja:Wiederherstellen Calp
+Wiederherstellen Calp|fr:Wiederherstellen Calp
+Wiederherstellen Calp|it:Wiederherstellen Calp
+Wiederherstellen Ealp|en:Wiederherstellen Ealp
+Wiederherstellen Ealp|ru:Wiederherstellen Ealp
+Wiederherstellen Ealp|de:Wiederherstellen Ealp
+Wiederherstellen Ealp|ja:Wiederherstellen Ealp
+Wiederherstellen Ealp|fr:Wiederherstellen Ealp
+Wiederherstellen Ealp|it:Wiederherstellen Ealp
+Wiederherstellen Falp|en:Wiederherstellen Falp
+Wiederherstellen Falp|ru:Видерхерстеллен Фальп
+Wiederherstellen Falp|de:Wiederherstellen Falp
+Wiederherstellen Falp|ja:Wiederherstellen Falp
+Wiederherstellen Falp|fr:Wiederherstellen Falp
+Wiederherstellen Falp|it:Wiederherstellen Falp
+Wiederherstellen Galp|en:Wiederherstellen Galp
+Wiederherstellen Galp|ru:Видерхерстеллен Галп
+Wiederherstellen Galp|de:Wiederherstellen Galp
+Wiederherstellen Galp|ja:ヴィーダーテルステレンギャルプ
+Wiederherstellen Galp|fr:Wiederherstellen Galp
+Wiederherstellen Galp|it:Wiederherstellen Galp
+Restore Calp|ja:復元する（？）
+Restore Calp|fr:RESTAURER
+Restore Calp|it:Ripristinare
+German 🇩🇪|en:German 🇩🇪
+German 🇩🇪|ru:Немецкий 🇩🇪
+German 🇩🇪|de:Deutsch 🇩🇪
+German 🇩🇪|ja:ドイツ語🇩🇪
+German 🇩🇪|fr:Allemand
+German 🇩🇪|it:Tedesco 🇩🇪
+In the lab 1|en:In the lab 1
+In the lab 1|ru:В лаборатории 1
+In the lab 1|de:Im Labor 1
+In the lab 1|ja:ラボでは1
+In the lab 1|fr:Dans le laboratoire
+In the lab 1|it:In laboratorio 1
+In the lab 2|en:In the lab 2
+In the lab 2|ru:В лаборатории 2
+In the lab 2|de:Im Labor 2
+In the lab 2|ja:ラボ2
+In the lab 2|fr:Dans le laboratoire
+In the lab 2|it:In laboratorio 2
+In the lab 3|en:In the lab 3
+In the lab 3|ru:В лаборатории 3
+In the lab 3|de:Im Labor 3
+In the lab 3|ja:ラボ3
+In the lab 3|fr:Dans le laboratoire
+In the lab 3|it:Nel laboratorio 3
+In the lab 4|en:In the lab 4
+In the lab 4|ru:В лаборатории 4
+In the lab 4|de:Im Labor 4
+In the lab 4|ja:ラボ4
+In the lab 4|fr:Dans le laboratoire
+In the lab 4|it:In laboratorio 4
+In the lab 5|en:In the lab 5
+In the lab 5|ru:В лаборатории 5
+In the lab 5|de:Im Labor 5
+In the lab 5|ja:ラボ5
+In the lab 5|fr:Dans le laboratoire
+In the lab 5|it:In laboratorio 5
+Solar Observation|en:Solar Observation
+Solar Observation|ru:Солнечные наблюдения
+Solar Observation|de:Sonnenbeobachtung
+Solar Observation|ja:太陽観測
+Solar Observation|fr:Observation solaire
+Solar Observation|it:Osservazione solare
+SS CDR Borisenko|en:SS CDR Borisenko
+SS CDR Borisenko|ru:СС ЦРБ Борисенко
+SS CDR Borisenko|de:SS CDR Borisenko
+SS CDR Borisenko|ja:SS CDRボリセンコ
+SS CDR Borisenko|fr:SS CDR Borisenko
+SS CDR Borisenko|it:SS CDR Borisenko
+FE-1 Samokutyaev|en:FE-1 Samokutyaev
+FE-1 Samokutyaev|ru:ИП-1 Самокутяев
+FE-1 Samokutyaev|de:FE-1 Samokutyaev
+FE-1 Samokutyaev|ja:FE-1サモクティエフ
+FE-1 Samokutyaev|fr:FE-1 Samokutyaev
+FE-1 Samokutyaev|it:FE-1 Samokutyaev
+FE-3 Garan|en:FE-3 Garan
+FE-3 Garan|ru:FE-3 Garan
+FE-3 Garan|de:FE-3 Garan
+FE-3 Garan|ja:FE-3ガラン
+FE-3 Garan|fr:FE-3 Garan
+FE-3 Garan|it:FE-3 Garan
+CDR Mark|en:CDR Mark
+CDR Mark|ru:CDR Mark
+CDR Mark|de:CDR Mark
+CDR Mark|ja:CDRマーク
+CDR Mark|fr:CDR Mark
+CDR Mark|it:CDR Mark
+PLT BOX|en:PLT BOX
+PLT BOX|ru:PLT BOX
+PLT BOX|de:PLT BOX
+PLT BOX|ja:PLT BOX
+PLT BOX|fr:PLT BOX
+PLT BOX|it:SCATOLA DEL PLT
+MS1 Spanky|en:MS1 Spanky
+MS1 Spanky|ru:MS1 Spanky
+MS1 Spanky|de:MS1 Spanky
+MS1 Spanky|ja:MS1スパンキー
+MS1 Spanky|fr:MS1 Spanky
+MS1 Spanky|it:MS1 Spanky
+MS2 Roberto|en:MS2 Roberto
+MS2 Roberto|ru:MS2 Роберто
+MS2 Roberto|de:Robert
+MS2 Roberto|ja:ロバートより。
+MS2 Roberto|fr:MS2 Roberto
+MS2 Roberto|it:ROBERTO
+MS3 Drew|en:MS3 Drew
+MS3 Drew|ru:MS3 Drew
+MS3 Drew|de:MS3 Drew
+MS3 Drew|ja:MS3ドリュー
+MS3 Drew|fr:MS3 Drew
+MS3 Drew|it:MS3 Drew
+MS4 Taz|en:MS4 Taz
+MS4 Taz|ru:MS4 Taz
+MS4 Taz|de:MS4 Taz
+MS4 Taz|ja:MS4タズ
+MS4 Taz|fr:MS4 Taz
+MS4 Taz|it:MS4 Taz
+Post Sleep|en:Post Sleep
+Summary|en:Summary
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Post Sleep|ru:спать
+Summary|ru:Краткое описание
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Post Sleep|de:Schlaf
+Summary|de:Zusammenfassung
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Post Sleep|ja:スリープ
+Summary|ja:【発明の概要】
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Post Sleep|fr:de sommeil
+Summary|fr:Récapitulatif
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Post Sleep|it:sonno
+Summary|it:In sintesi
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Midday Meal|en:Midday Meal
+Description|en:Description
+Midday Meal|ru:полдень
+Description|ru:описание
+Midday Meal|de:Mittagszeit
+Description|de:Beschreibung
+Midday Meal|ja:hiru-gohan
+Description|ja:説明
+Midday Meal|fr:Heure du déjeuner
+Description|fr:Description
+Midday Meal|it:Ora di pranzo
+Description|it:Descrizione
+Crew Meeting|en:Crew Meeting
+Discuss subjects X,Y,Z|en:Discuss subjects X,Y,Z
+Crew Meeting|ru:Встреча экипажей
+Discuss subjects X,Y,Z|ru:Обсудить предметы X, Y, Z
+Crew Meeting|de:Besatzungstreffen
+Discuss subjects X,Y,Z|de:Diskutieren Sie die Themen X, Y, Z
+Crew Meeting|ja:会議
+Discuss subjects X,Y,Z|ja:主題X、Y、Zについて話し合う
+Crew Meeting|fr:Réunion d&#39;équipage
+Discuss subjects X,Y,Z|fr:Discuter des sujets X, Y, Z
+Crew Meeting|it:Riunione degli equipaggi
+Discuss subjects X,Y,Z|it:Discutere i soggetti X, Y, Z
+CDR Mark Farewell|en:CDR Mark Farewell
+Bye Mark|en:Bye Mark
+CDR Mark Farewell|ru:CDR Марк Прощай
+Bye Mark|ru:Пока Марк
+CDR Mark Farewell|de:CDR Mark Farewell
+Bye Mark|de:Bye Mark
+CDR Mark Farewell|ja:CDRマーク別れ
+Bye Mark|ja:バイマーク
+CDR Mark Farewell|fr:CDR Mark Farewell
+Bye Mark|fr:Au revoir Mark
+CDR Mark Farewell|it:CDR Mark Farewell
+Bye Mark|it:Ciao Mark
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Pre Sleep|en:Pre Sleep
+Pre Sleep|ru:спать
+Pre Sleep|de:Schlaf
+Pre Sleep|ja:スリープ
+Pre Sleep|fr:de sommeil
+Pre Sleep|it:sonno
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Daily Planning Conference|en:Daily Planning Conference
+Discuss Daily Plan and Procedures|en:Discuss Daily Plan and Procedures
+Audio Configuration (A):S/G 1. 
+ Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+ Can be held via S-BD.|en:Audio Configuration (A):S/G 1. 
+ Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+ Can be held via S-BD.
+Daily Planning Conference|ru:Ежедневная конференция по планированию
+Discuss Daily Plan and Procedures|ru:Обсудить ежедневный план и процедуры
+Audio Configuration (A):S/G 1. 
+ Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+ Can be held via S-BD.|ru:Конфигурация аудио (A): S / G 1. Минимум 15 минут с MSFC, ESA, SSIPC и MCC-M. Может быть проведено через S-BD.
+Daily Planning Conference|de:Tägliche Planungskonferenz
+Discuss Daily Plan and Procedures|de:Besprechen Sie den Tagesplan und die Abläufe
+Audio Configuration (A):S/G 1. 
+ Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+ Can be held via S-BD.|de:Audiokonfiguration (A): S / G 1. Mindestens 15 Minuten bei MSFC, ESA, SSIPC und MCC-M. Kann über S-BD gehalten werden.
+Daily Planning Conference|ja:デイリープランニングカンファレンス
+Discuss Daily Plan and Procedures|ja:日々の計画と手順について話し合う
+Audio Configuration (A):S/G 1. 
+ Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+ Can be held via S-BD.|ja:音声設定（A）：S / G 1. MSFC、ESA、SSIPC、およびMCC-Mを使用して最小15分。 S-BDを介して開催することができます。
+Daily Planning Conference|fr:Conférence de planification quotidienne
+Discuss Daily Plan and Procedures|fr:Discuter du plan quotidien et des procédures
+Audio Configuration (A):S/G 1. 
+ Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+ Can be held via S-BD.|fr:Configuration audio (A): S / G 1. Minimum 15 minutes avec MSFC, ESA, SSIPC et MCC-M. Peut être tenue via S-BD.
+Daily Planning Conference|it:Conferenza di pianificazione quotidiana
+Discuss Daily Plan and Procedures|it:Discutere piano giornaliero e procedure
+Audio Configuration (A):S/G 1. 
+ Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+ Can be held via S-BD.|it:Configurazione audio (A): S / G 1. Minimo 15 minuti con MSFC, ESA, SSIPC e MCC-M. Può essere tenuto tramite S-BD.
+Exercise ARED-CDF|en:Exercise ARED-CDF
+Exercise ARED-CDF|ru:Упражнение ARED-CDF
+Exercise ARED-CDF|de:Übung ARED-CDF
+Exercise ARED-CDF|ja:エクササイズARED-CDF
+Exercise ARED-CDF|fr:Exercice ARED-CDF
+Exercise ARED-CDF|it:Esercizio ARED-CDF
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Daily Planning|en:Daily Planning
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|en:Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.
+Daily Planning|ru:Ежедневное планирование
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|ru:Конфигурация аудио (A): S / G 1. Минимум 15 минут с MSFC, ESA, SSIPC и MCC-M. Может быть проведено через S-BD.
+Daily Planning|de:Tagesplanung
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|de:Audiokonfiguration (A): S / G 1. Mindestens 15 Minuten bei MSFC, ESA, SSIPC und MCC-M. Kann über S-BD gehalten werden.
+Daily Planning|ja:デイリープランニング
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|ja:音声設定（A）：S / G 1. MSFC、ESA、SSIPC、およびMCC-Mを使用して最小15分。 S-BDを介して開催することができます。
+Daily Planning|fr:Planification quotidienne
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|fr:Configuration audio (A): S / G 1. Minimum 15 minutes avec MSFC, ESA, SSIPC et MCC-M. Peut être tenue via S-BD.
+Daily Planning|it:pianificazione del planning giornaliero;
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|it:Configurazione audio (A): S / G 1. Minimo 15 minuti con MSFC, ESA, SSIPC e MCC-M. Può essere tenuto tramite S-BD.
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|en:Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|ru:Конфигурация аудио (A): S / G 1. Минимум 15 минут с MSFC, ESA, SSIPC и MCC-M. Может быть проведено через S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|de:Audiokonfiguration (A): S / G 1. Mindestens 15 Minuten bei MSFC, ESA, SSIPC und MCC-M. Kann über S-BD gehalten werden.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|ja:音声設定（A）：S / G 1. MSFC、ESA、SSIPC、およびMCC-Mを使用して最小15分。 S-BDを介して開催することができます。
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|fr:Configuration audio (A): S / G 1. Minimum 15 minutes avec MSFC, ESA, SSIPC et MCC-M. Peut être tenue via S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|it:Configurazione audio (A): S / G 1. Minimo 15 minuti con MSFC, ESA, SSIPC e MCC-M. Può essere tenuto tramite S-BD.
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|en:Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|ru:Конфигурация аудио (A): S / G 1. Минимум 15 минут с MSFC, ESA, SSIPC и MCC-M. Может быть проведено через S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|de:Audiokonfiguration (A): S / G 1. Mindestens 15 Minuten bei MSFC, ESA, SSIPC und MCC-M. Kann über S-BD gehalten werden.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|ja:音声設定（A）：S / G 1. MSFC、ESA、SSIPC、およびMCC-Mを使用して最小15分。 S-BDを介して開催することができます。
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|fr:Configuration audio (A): S / G 1. Minimum 15 minutes avec MSFC, ESA, SSIPC et MCC-M. Peut être tenue via S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|it:Configurazione audio (A): S / G 1. Minimo 15 minuti con MSFC, ESA, SSIPC e MCC-M. Può essere tenuto tramite S-BD.
+Daily Planning Conf|en:Daily Planning Conf
+Daily Planning Conf|ru:Ежедневное планирование
+Daily Planning Conf|de:Tagesplanung
+Daily Planning Conf|ja:日次計画の確認
+Daily Planning Conf|fr:Conférence de planification quotidienne
+Daily Planning Conf|it:pianificazione del planning giornaliero;
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|en:Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|ru:Конфигурация аудио (A): S / G 1. Минимум 15 минут с MSFC, ESA, SSIPC и MCC-M. Может быть проведено через S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|de:Audiokonfiguration (A): S / G 1. Mindestens 15 Minuten bei MSFC, ESA, SSIPC und MCC-M. Kann über S-BD gehalten werden.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|ja:音声設定（A）：S / G 1. MSFC、ESA、SSIPC、およびMCC-Mを使用して最小15分。 S-BDを介して開催することができます。
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|fr:Configuration audio (A): S / G 1. Minimum 15 minutes avec MSFC, ESA, SSIPC et MCC-M. Peut être tenue via S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|it:Configurazione audio (A): S / G 1. Minimo 15 minuti con MSFC, ESA, SSIPC e MCC-M. Può essere tenuto tramite S-BD.
+Exercise T2|en:Exercise T2
+Exercise T2|ru:Упражнение Т2
+Exercise T2|de:Übung
+Exercise T2|ja:運動
+Exercise T2|fr:Exercice T2
+Exercise T2|it:Esercizio T2
+Exercise VE|en:Exercise VE
+Exercise VE|ru:Упражнение VE
+Exercise VE|de:Übung
+Exercise VE|ja:運動
+Exercise VE|fr:Exercice VE
+Exercise VE|it:Esercizio VE
+Collect Tools|en:Collect Tools
+Collect Tools|ru:Собирать инструменты
+Collect Tools|de:Werkzeuge sammeln
+Collect Tools|ja:ツールを集める
+Collect Tools|fr:Collecter des outils
+Collect Tools|it:Colleziona attrezzi.
+TEX 15 Experiment|en:TEX 15 Experiment
+TEX 15 Experiment|ru:TEX 15 Эксперимент
+TEX 15 Experiment|de:TEX 15-Experiment
+TEX 15 Experiment|ja:TEX 15実験
+TEX 15 Experiment|fr:Expérience TEX 15
+TEX 15 Experiment|it:TEX 15 Esperimento
+Evening Meal|en:Evening Meal
+Evening Meal|ru:Ужин
+Evening Meal|de:Abendessen
+Evening Meal|ja:夕方
+Evening Meal|fr:Le repas du soir
+Evening Meal|it:Ora di cena
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|en:Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|en:Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.
+Audio Configuration (A):S/G 1. 
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|en:Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.
+Audio Configuration (A):S/G 1. 
+Station Morning Inspection.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|en:Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|en:Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|ru:Конфигурация аудио (A): S / G 1. Минимум 15 минут с MSFC, ESA, SSIPC и MCC-M. Может быть проведено через S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|de:Audiokonfiguration (A): S / G 1. Mindestens 15 Minuten bei MSFC, ESA, SSIPC und MCC-M. Kann über S-BD gehalten werden.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|ja:音声設定（A）：S / G 1. MSFC、ESA、SSIPC、およびMCC-Mを使用して最小15分。 S-BDを介して開催することができます。
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|fr:Configuration audio (A): S / G 1. Minimum 15 minutes avec MSFC, ESA, SSIPC et MCC-M. Peut être tenue via S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|it:Configurazione audio (A): S / G 1. Minimo 15 minuti con MSFC, ESA, SSIPC e MCC-M. Può essere tenuto tramite S-BD.
+Stowage|en:Stowage
+Stowage|ru:Бардачок
+Stowage|de:Verzurren
+Stowage|ja:積み込み
+Stowage|fr:magasin
+Stowage|it:stivaggio
+DCP Preparation|en:DCP Preparation
+DCP Preparation|ru:Подготовка
+DCP Preparation|de:Vorbereitung
+DCP Preparation|ja:準備
+DCP Preparation|fr:Préparation
+DCP Preparation|it:preparazione
+DCP Pack|en:DCP Pack
+DCP Pack|ru:DCP Pack
+DCP Pack|de:DCP Pack
+DCP Pack|ja:DCPパック
+DCP Pack|fr:Pack DCP
+DCP Pack|it:DCP Pack
+EVA Tool Stow|en:EVA Tool Stow
+EVA Tool Stow|ru:EVA Tool Stow
+EVA Tool Stow|de:EVA-Werkzeugablage
+EVA Tool Stow|ja:EVAツールストウ
+EVA Tool Stow|fr:EVA Tool Stow
+EVA Tool Stow|it:Stow di attrezzi di EVA
+Rendezvous Tools|en:Rendezvous Tools
+Rendezvous Tools|ru:Инструменты Рандеву
+Rendezvous Tools|de:Rendezvous-Werkzeuge
+Rendezvous Tools|ja:ランデブーツール
+Rendezvous Tools|fr:Outils de rendez-vous
+Rendezvous Tools|it:Strumenti Rendezvous
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|en:Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|ru:Конфигурация аудио (A): S / G 1. Минимум 15 минут с MSFC, ESA, SSIPC и MCC-M. Может быть проведено через S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|de:Audiokonfiguration (A): S / G 1. Mindestens 15 Minuten bei MSFC, ESA, SSIPC und MCC-M. Kann über S-BD gehalten werden.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|ja:音声設定（A）：S / G 1. MSFC、ESA、SSIPC、およびMCC-Mを使用して最小15分。 S-BDを介して開催することができます。
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|fr:Configuration audio (A): S / G 1. Minimum 15 minutes avec MSFC, ESA, SSIPC et MCC-M. Peut être tenue via S-BD.
+Audio Configuration (A):S/G 1. 
+Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. 
+Can be held via S-BD.|it:Configurazione audio (A): S / G 1. Minimo 15 minuti con MSFC, ESA, SSIPC e MCC-M. Può essere tenuto tramite S-BD.
+IMM Preparation|de:Vorbereitung
+IMM Preparation|ja:準備
+IMM Preparation|fr:Préparation IMM
+IMM Preparation|it:preparazione
+IMM|en:IMM
+IMM|ru:гр. вин.
+IMM|de:IMM
+IMM|ja:IMM
+IMM|fr:IMM
+IMM|it:IMM
+Exercise ARED|en:Exercise ARED
+Exercise ARED|ru:Упражнения
+Exercise ARED|de:Übung
+Exercise ARED|ja:運動
+Exercise ARED|fr:Exercice
+Exercise ARED|it:esercizio
+Station Check|en:Station Check
+Station Check|ru:Проверка станции данных
+Station Check|de:Station prüfen
+Station Check|ja:駅チェック
+Station Check|fr:Contrôle de la gare
+Station Check|it:Controllo della stazione
+Station Announcement|en:Station Announcement
+Station Announcement|ru:Анонс станции
+Station Announcement|de:Stationsanzeige
+Station Announcement|ja:ステーションアナウンスメント
+Station Announcement|fr:Annonce de la station
+Station Announcement|it:Annuncio stazione
+Hatch Operation|en:Hatch Operation
+Hatch Operation|ru:Операция Люк
+Hatch Operation|de:Hatch-Betrieb
+Hatch Operation|ja:ハッチング操作
+Hatch Operation|fr:Opération de hachures
+Hatch Operation|it:Operazione di tratteggio
+Power Check|en:Power Check
+Power Check|ru:Проверка мощности
+Power Check|de:Power Check
+Power Check|ja:電源チェック
+Power Check|fr:point fixe
+Power Check|it:Power Check
+Exercise|en:Exercise
+Exercise|ru:Упражнения
+Exercise|de:Übung
+Exercise|ja:運動
+Exercise|fr:Exercice
+Exercise|it:Esercizio
+Spinal Exercise|en:Spinal Exercise
+Spinal Exercise|ru:Упражнения для позвоночника
+Spinal Exercise|de:Wirbelsäulenübung
+Spinal Exercise|ja:脊椎運動
+Spinal Exercise|fr:Exercice spinal
+Spinal Exercise|it:Esercizio spinale
+Oxygen Transfer|en:Oxygen Transfer
+Oxygen Transfer|ru:Перенос кислорода
+Oxygen Transfer|de:Sauerstoffübertragung
+Oxygen Transfer|ja:酸素移動
+Oxygen Transfer|fr:transfert d'oxygène
+Oxygen Transfer|it:Trasferimento di ossigeno
+Middeck Transfer|en:Middeck Transfer
+Middeck Transfer|ru:Миддек Трансфер
+Middeck Transfer|de:Middeck Transfer
+Middeck Transfer|ja:ミッドデッキトランスファー
+Middeck Transfer|fr:Transfert de Middeck
+Middeck Transfer|it:Trasferimento di Middeck
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:Конфигурация аудио (A): S / G 1. Минимум 15 минут с MSFC, ESA, SSIPC и MCC-M. Может быть проведено через S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:Audiokonfiguration (A): S / G 1. Mindestens 15 Minuten bei MSFC, ESA, SSIPC und MCC-M. Kann über S-BD gehalten werden.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:音声設定（A）：S / G 1. MSFC、ESA、SSIPC、およびMCC-Mを使用して最小15分。 S-BDを介して開催することができます。
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:Configuration audio (A): S / G 1. Minimum 15 minutes avec MSFC, ESA, SSIPC et MCC-M. Peut être tenue via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:Configurazione audio (A): S / G 1. Minimo 15 minuti con MSFC, ESA, SSIPC e MCC-M. Può essere tenuto tramite S-BD.
+Pizza|en:Pizza
+Pizza|ru:Пицца
+Pizza|de:Pizza
+Pizza|ja:ピザ
+Pizza|fr:Pizza
+Pizza|it:Pizza
+HM Conference|en:HM Conference
+HM Conference|ru:HM Conference
+HM Conference|de:HM Konferenz
+HM Conference|ja:会議&#x0D;
+HM Conference|fr:Conférence HM
+HM Conference|it:Conferenza HM
+COX-MN|en:COX-MN
+COX-MN|ru:СОХ-МН
+COX-MN|de:COX-MN
+COX-MN|ja:COX-MN
+COX-MN|fr:COX-MN
+COX-MN|it:COX-MN
+Exercise-T2|en:Exercise-T2
+Exercise-T2|ru:Упражнение-T2
+Exercise-T2|de:Übung-T2
+Exercise-T2|ja:演習
+Exercise-T2|fr:Exercice-T2
+Exercise-T2|it:Esercizio-T2
+IMM Preparation|en:IMM Preparation
+IMM Preparation|ru:Подготовка
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:Конфигурация аудио (A): S / G 1. Минимум 15 минут с MSFC, ESA, SSIPC и MCC-M. Может быть проведено через S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:Audiokonfiguration (A): S / G 1. Mindestens 15 Minuten bei MSFC, ESA, SSIPC und MCC-M. Kann über S-BD gehalten werden.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:音声設定（A）：S / G 1. MSFC、ESA、SSIPC、およびMCC-Mを使用して最小15分。 S-BDを介して開催することができます。
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:Configuration audio (A): S / G 1. Minimum 15 minutes avec MSFC, ESA, SSIPC et MCC-M. Peut être tenue via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:Configurazione audio (A): S / G 1. Minimo 15 minuti con MSFC, ESA, SSIPC e MCC-M. Può essere tenuto tramite S-BD.
+TV Interview|en:TV Interview
+TV Interview|ru:Собеседования
+TV Interview|de:Interview im Fernsehen
+TV Interview|ja:テレビインタビュー
+TV Interview|fr:Entretien
+TV Interview|it:Intervento
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:Конфигурация аудио (A): S / G 1. Минимум 15 минут с MSFC, ESA, SSIPC и MCC-M. Может быть проведено через S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:Audiokonfiguration (A): S / G 1. Mindestens 15 Minuten bei MSFC, ESA, SSIPC und MCC-M. Kann über S-BD gehalten werden.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:音声設定（A）：S / G 1. MSFC、ESA、SSIPC、およびMCC-Mを使用して最小15分。 S-BDを介して開催することができます。
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:Configuration audio (A): S / G 1. Minimum 15 minutes avec MSFC, ESA, SSIPC et MCC-M. Peut être tenue via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:Configurazione audio (A): S / G 1. Minimo 15 minuti con MSFC, ESA, SSIPC e MCC-M. Può essere tenuto tramite S-BD.
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:Конфигурация аудио (A): S / G 1. Минимум 15 минут с MSFC, ESA, SSIPC и MCC-M. Может быть проведено через S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:Audiokonfiguration (A): S / G 1. Mindestens 15 Minuten bei MSFC, ESA, SSIPC und MCC-M. Kann über S-BD gehalten werden.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:音声設定（A）：S / G 1. MSFC、ESA、SSIPC、およびMCC-Mを使用して最小15分。 S-BDを介して開催することができます。
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:Configuration audio (A): S / G 1. Minimum 15 minutes avec MSFC, ESA, SSIPC et MCC-M. Peut être tenue via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 47 MINUTES 56 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|de:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|ja:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 40 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|fr:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|de:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|ja:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|fr:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 23 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 22 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 39 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 28 MINUTES 05 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|de:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 22 MINUTES 10 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|ja:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 28 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|fr:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 28 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 28 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 28 MINUTES 04 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 22 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 28 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 22 MINUTES 09 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 28 MINUTES 03 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 27 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|de:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 27 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|ja:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 27 MINUTES 27 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|fr:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 21 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 27 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 21 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 27 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 21 MINUTES 32 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 27 MINUTES 26 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 27 MINUTES 25 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 27 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|de:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 27 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|ja:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 27 MINUTES 16 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|fr:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 21 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 27 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 27 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 21 MINUTES 21 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 27 MINUTES 15 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 21 MINUTES 20 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 27 MINUTES 14 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 09 MINUTES 48 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|de:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 03 MINUTES 54 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|ja:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 09 MINUTES 48 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|fr:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 09 MINUTES 48 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 09 MINUTES 48 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 03 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 09 MINUTES 47 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 03 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 09 MINUTES 47 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 09 MINUTES 47 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 07 MINUTES 52 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|de:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 07 MINUTES 52 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|ja:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 07 MINUTES 52 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|fr:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 07 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 07 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 07 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 01 MINUTES 57 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 07 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 07 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 07 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|de:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|ja:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 02 MINUTES 00 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|fr:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 59 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  22 HOURS 01 MINUTES 58 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:Конфигурация аудио (A): S / G 1. Минимум 15 минут с MSFC, ESA, SSIPC и MCC-M. Может быть проведено через S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:Audiokonfiguration (A): S / G 1. Mindestens 15 Minuten bei MSFC, ESA, SSIPC und MCC-M. Kann über S-BD gehalten werden.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:音声設定（A）：S / G 1. MSFC、ESA、SSIPC、およびMCC-Mを使用して最小15分。 S-BDを介して開催することができます。
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:Configuration audio (A): S / G 1. Minimum 15 minutes avec MSFC, ESA, SSIPC et MCC-M. Peut être tenue via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:Configurazione audio (A): S / G 1. Minimo 15 minuti con MSFC, ESA, SSIPC e MCC-M. Può essere tenuto tramite S-BD.
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:Конфигурация аудио (A): S / G 1. Минимум 15 минут с MSFC, ESA, SSIPC и MCC-M. Может быть проведено через S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:Audiokonfiguration (A): S / G 1. Mindestens 15 Minuten bei MSFC, ESA, SSIPC und MCC-M. Kann über S-BD gehalten werden.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:音声設定（A）：S / G 1. MSFC、ESA、SSIPC、およびMCC-Mを使用して最小15分。 S-BDを介して開催することができます。
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:Configuration audio (A): S / G 1. Minimum 15 minutes avec MSFC, ESA, SSIPC et MCC-M. Peut être tenue via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:Configurazione audio (A): S / G 1. Minimo 15 minuti con MSFC, ESA, SSIPC e MCC-M. Può essere tenuto tramite S-BD.
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|ru:Станция Утренний осмотр. Завтрак.
+Station Morning Inspection.
+Breakfast.|de:Station Morgen Inspektion. Frühstück.
+Station Morning Inspection.
+Breakfast.|ja:駅の朝検査朝ごはん。
+Station Morning Inspection.
+Breakfast.|fr:Inspection matinale de la gare. Petit déjeuner.
+Station Morning Inspection.
+Breakfast.|it:Stazione Morning Inspection. Prima colazione.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:Конфигурация аудио (A): S / G 1. Минимум 15 минут с MSFC, ESA, SSIPC и MCC-M. Может быть проведено через S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:Audiokonfiguration (A): S / G 1. Mindestens 15 Minuten bei MSFC, ESA, SSIPC und MCC-M. Kann über S-BD gehalten werden.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:音声設定（A）：S / G 1. MSFC、ESA、SSIPC、およびMCC-Mを使用して最小15分。 S-BDを介して開催することができます。
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:Configuration audio (A): S / G 1. Minimum 15 minutes avec MSFC, ESA, SSIPC et MCC-M. Peut être tenue via S-BD.
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:Configurazione audio (A): S / G 1. Minimo 15 minuti con MSFC, ESA, SSIPC e MCC-M. Può essere tenuto tramite S-BD.
+Station Morning Inspection.
+Breakfast.|en:Station Morning Inspection.
+Breakfast.
+Station Morning Inspection.
+Breakfast.|en:
+Station Morning Inspection.
+Breakfast.|ru:
+Station Morning Inspection.
+Breakfast.|de:
+Station Morning Inspection.
+Breakfast.|ja:
+Station Morning Inspection.
+Breakfast.|fr:
+Station Morning Inspection.
+Breakfast.|it:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:
+Station Morning Inspection.
+Breakfast.|en:
+Station Morning Inspection.
+Breakfast.|ru:
+Station Morning Inspection.
+Breakfast.|de:
+Station Morning Inspection.
+Breakfast.|ja:
+Station Morning Inspection.
+Breakfast.|fr:
+Station Morning Inspection.
+Breakfast.|it:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:
+Station Morning Inspection.
+Breakfast.|en:
+Station Morning Inspection.
+Breakfast.|ru:
+Station Morning Inspection.
+Breakfast.|de:
+Station Morning Inspection.
+Breakfast.|ja:
+Station Morning Inspection.
+Breakfast.|fr:
+Station Morning Inspection.
+Breakfast.|it:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:
+Station Morning Inspection.
+Breakfast.|en:
+Station Morning Inspection.
+Breakfast.|ru:
+Station Morning Inspection.
+Breakfast.|de:
+Station Morning Inspection.
+Breakfast.|ja:
+Station Morning Inspection.
+Breakfast.|fr:
+Station Morning Inspection.
+Breakfast.|it:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:
+Station Morning Inspection.
+Breakfast.|en:
+Station Morning Inspection.
+Breakfast.|ru:
+Station Morning Inspection.
+Breakfast.|de:
+Station Morning Inspection.
+Breakfast.|ja:
+Station Morning Inspection.
+Breakfast.|fr:
+Station Morning Inspection.
+Breakfast.|it:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:
+Station Morning Inspection.
+Breakfast.|en:
+Station Morning Inspection.
+Breakfast.|ru:
+Station Morning Inspection.
+Breakfast.|de:
+Station Morning Inspection.
+Breakfast.|ja:
+Station Morning Inspection.
+Breakfast.|fr:
+Station Morning Inspection.
+Breakfast.|it:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:
+Station Morning Inspection.
+Breakfast.|en:
+Station Morning Inspection.
+Breakfast.|ru:
+Station Morning Inspection.
+Breakfast.|de:
+Station Morning Inspection.
+Breakfast.|ja:
+Station Morning Inspection.
+Breakfast.|fr:
+Station Morning Inspection.
+Breakfast.|it:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:
+Station Morning Inspection.
+Breakfast.|en:
+Station Morning Inspection.
+Breakfast.|ru:
+Station Morning Inspection.
+Breakfast.|de:
+Station Morning Inspection.
+Breakfast.|ja:
+Station Morning Inspection.
+Breakfast.|fr:
+Station Morning Inspection.
+Breakfast.|it:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|en:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ru:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|de:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|ja:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|fr:
+Audio Configuration (A):S/G 1. Minimum 15 minutes with MSFC, ESA, SSIPC, and MCC-M. Can be held via S-BD.|it:

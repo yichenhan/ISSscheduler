@@ -1,0 +1,18 @@
+/* header row */
+QCalendarWidget QWidget { alternate-background-color: rgb(128, 128, 128); }
+
+/* normal days */
+QCalendarWidget QAbstractItemView:enabled
+{
+font-size:12px;  
+color: rgb(180, 180, 180);  
+background-color: black;  
+selection-background-color: rgb(64, 64, 64); 
+selection-color: rgb(100, 200, 125); 
+}
+
+QCalendarWidget QAbstractItemView:disabled 
+{ 
+color: rgb(64, 64, 64); 
+}
+

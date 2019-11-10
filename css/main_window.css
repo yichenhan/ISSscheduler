@@ -1,0 +1,14 @@
+QMainWindow {
+	background: rgb(245,245,245);
+}
+
+QGraphicsView {
+	background: rgb(245,245,245);
+	border-style: none;
+}
+
+QLabel{
+	background-color: rgba(0,0,0,0%);
+	color: black;
+	font-size: 16px;
+}
